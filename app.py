@@ -1,1 +1,1 @@
-print(Money Sending app running...)
+print('Money Sending app running...')
