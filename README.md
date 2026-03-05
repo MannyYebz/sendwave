@@ -6,3 +6,12 @@ pip install sendwave
 '''
 
 ##Usage
+'''bash
+uv run app.py
+'''
+
+## Using Python 
+'''python
+import math
+print(math.PI)
+'''
