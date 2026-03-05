@@ -5,7 +5,7 @@
 pip install sendwave
 '''
 
-##Usage
+## Usage
 '''bash
 uv run app.py
 '''
