@@ -1,17 +1,17 @@
 ## New feature 2 added
 
 ## Install
-'''bash
+''' bash
 pip install sendwave
 '''
 
 ## Usage
-'''bash
+''' bash
 uv run app.py
 '''
 
 ## Using Python 
-'''python
+''' python
 import math
 print(math.PI)
 '''
